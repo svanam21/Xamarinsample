@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Xamarinsample"
              x:Class="Xamarinsample.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<Label Text="Test the code" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
