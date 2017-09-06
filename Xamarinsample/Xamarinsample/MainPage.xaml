@@ -7,9 +7,14 @@
     <StackLayout VerticalOptions="FillAndExpand"
            HorizontalOptions="FillAndExpand">
         <Label Text="Registration Form"
+               TextColor="Red"
                FontSize="28"
                FontAttributes="Bold"/>
-        <Label Text="Welcome to the registration form! Please fill out the following information to register "
-        
+        <Label Text="Welcome to the registration form! Please fill out the following information to register for the event:"
+               TextColor="Black"/>
+        <Label Text="Personal Information:"
+               TextColor="Black"
+               FontAttributes="Bold"/>
+
     </StackLayout>
 </ContentPage>
