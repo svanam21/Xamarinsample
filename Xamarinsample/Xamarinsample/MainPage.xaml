@@ -4,8 +4,12 @@
              xmlns:local="clr-namespace:Xamarinsample"
              x:Class="Xamarinsample.MainPage">
 
-	<Label Text="Test the code" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+    <StackLayout VerticalOptions="FillAndExpand"
+           HorizontalOptions="FillAndExpand">
+        <Label Text="Registration Form"
+               FontSize="28"
+               FontAttributes="Bold"/>
+        <Label Text="Welcome to the registration form! Please fill out the following information to register "
+        
+    </StackLayout>
 </ContentPage>
