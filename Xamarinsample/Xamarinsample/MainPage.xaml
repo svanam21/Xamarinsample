@@ -15,6 +15,39 @@
         <Label Text="Personal Information:"
                TextColor="Black"
                FontAttributes="Bold"/>
+        <Entry Placeholder="First name"
+               TextColor="Black"
+               FontSize="14"/>
+        <Entry Placeholder="Middle name"
+               TextColor="Black"
+               FontSize="14"/>
+        <Entry Placeholder="Last name"
+               TextColor="Black" 
+               FontSize="14"/>
+        <Label Text="Address:"
+               TextColor="Black"
+               FontAttributes="Bold"/>
+        <Entry Placeholder="Address"
+               TextColor="Black" 
+               FontSize="14"/>
+        <Entry Placeholder="City"
+               TextColor="Black"
+               FontSize="14"/>
+        <Entry Placeholder="State"
+               TextColor="Black"
+               FontSize="14"/>
+        <Entry Placeholder="Zip Code"
+               TextColor="Black" 
+               FontSize="14"/>
+        <Label Text="Notes"/>
+        <Editor HeightRequest="100"/>
+        <Button Text="Submit"
+                TextColor="Black"
+                BackgroundColor="Yellow"/>
+
+
+
+
 
     </StackLayout>
 </ContentPage>
